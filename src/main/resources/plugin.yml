@@ -1,0 +1,14 @@
+name: Practice
+author: Linaris
+main: fr.Linaris.Practice.Practice
+version: 1.0.0
+description: Practice
+depend: [LinarisAPIPractice]
+commands:
+  bite:
+  inventorybackup:
+  duel:
+  rank:
+  seek:
+  freeze:
+  pban:
